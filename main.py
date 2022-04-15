@@ -4,7 +4,7 @@ from dash import html
 import plotly.graph_objects as go
 
 port=8050
-username='aheraty@numerix.com'
+username='username@example.com'
 url_prefix= f"/user/{username}/proxy/{port}/" 
 
 
